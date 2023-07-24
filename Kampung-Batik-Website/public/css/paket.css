@@ -1,0 +1,9 @@
+.dasar-paket{
+    border: solid red 1px;
+    box-sizing: border-box;
+}
+.konten-paket{
+    border: solid red 1px;
+    box-sizing: border-box;
+    margin: 0px 64px 0px 64px ;
+}

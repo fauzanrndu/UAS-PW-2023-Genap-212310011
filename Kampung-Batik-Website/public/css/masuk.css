@@ -1,0 +1,44 @@
+.dasar-masuk{
+    border: solid 1px red;
+    box-sizing: border-box;
+}
+.dasar-konten-masuk{
+    border: solid 1px red;
+    box-sizing: border-box;
+    width: 1024px;
+    display: flex;
+
+
+}
+.kiri{
+    border: solid 1px blue;
+    width: 512px;
+    background-image: url(/img/background-image-512.png);
+    height: 512px;
+    display: grid;
+    place-items: center;
+}
+#kalimat{
+    border: solid 1px blue;
+}
+
+
+.kanan{
+    border: solid 1px blue;
+    width: 512px;
+    display: grid;
+    place-items: center;
+}
+#konten-kanan{
+    border: solid 1px blue;
+    display: grid;
+    place-items: center;
+}
+#logo{
+    width: 128px;
+    border: solid 1px blue;
+}
+#formulir-masuk{
+    border: solid 1px blue;
+    width: 256px;
+}
